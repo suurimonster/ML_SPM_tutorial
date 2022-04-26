@@ -1,8 +1,8 @@
 # ML_SPM_tutorial
 This is material for a 1-day tutorial introducing some basic ideas in handling scientific data and applying machine learning methods to microscopy data. The idea is to work through the following files (available as Jupyter notebooks and html):
 
-* coding.ipynb - brief introduction to Python approaches to data and image handling
-* ml.ipynb - brief introduction to machine learning in the context of Scanning Probe Microscopy, with main emphasis on Neural Networks
+* coding.ipynb - introduction to Python approaches to data and image handling
+* ml.ipynb - introduction to machine learning in the context of image analysis and Scanning Probe Microscopy, with main emphasis on Neural Networks
 
 Each contains an opening *lecture* to outline some key ideas, followed by a series of tutorials that reinforce the concepts with practical applications.
 
