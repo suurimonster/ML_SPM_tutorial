@@ -103,3 +103,5 @@ ENV/
 .idea/
 *.iml
 .DS_Store
+examples/.DS_Store
+.DS_Store
